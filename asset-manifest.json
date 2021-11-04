@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/muhamedhalimi/static/css/main.97e152e1.chunk.css",
+    "main.js": "/muhamedhalimi/static/js/main.c863d36a.chunk.js",
+    "main.js.map": "/muhamedhalimi/static/js/main.c863d36a.chunk.js.map",
+    "runtime-main.js": "/muhamedhalimi/static/js/runtime-main.4ed91dc3.js",
+    "runtime-main.js.map": "/muhamedhalimi/static/js/runtime-main.4ed91dc3.js.map",
+    "static/js/2.c166bd06.chunk.js": "/muhamedhalimi/static/js/2.c166bd06.chunk.js",
+    "static/js/2.c166bd06.chunk.js.map": "/muhamedhalimi/static/js/2.c166bd06.chunk.js.map",
+    "static/js/3.e86e1403.chunk.js": "/muhamedhalimi/static/js/3.e86e1403.chunk.js",
+    "static/js/3.e86e1403.chunk.js.map": "/muhamedhalimi/static/js/3.e86e1403.chunk.js.map",
+    "index.html": "/muhamedhalimi/index.html",
+    "static/css/main.97e152e1.chunk.css.map": "/muhamedhalimi/static/css/main.97e152e1.chunk.css.map",
+    "static/js/2.c166bd06.chunk.js.LICENSE.txt": "/muhamedhalimi/static/js/2.c166bd06.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/muhamedhalimi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ed91dc3.js",
+    "static/js/2.c166bd06.chunk.js",
+    "static/css/main.97e152e1.chunk.css",
+    "static/js/main.c863d36a.chunk.js"
+  ]
+}
