@@ -1,39 +1,391 @@
 .App {
-  text-align: center;
-  color: black;
+    text-align: center;
+    color: black;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+    height: 40vmin;
+    pointer-events: none;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+.jLogo {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 28px;
+    height: 50px;
+
+}
+
+.jLogoJ {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 150px;
+
+}
+
+.pLogo {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 90px;
+    height: 30px;
+
+}
+
+.pLogoP {
+    position: relative;
+    top: 10px;
+    left: 0;
+    width: 250px;
+
+}
+
+.rLogo {
+    position: relative;
+    left: 0;
+    width: 110%;
+    object-fit: fill;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .rLogo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+
+.bLogo {
+    position: relative;
+    left: 0;
+    width: 100%;
+    object-fit: fill;
+
+}
+
+
+.aLogo {
+    position: relative;
+    left: 0;
+    width: 90%;
+    object-fit: fill;
+
+}
+
+@keyframes Angular-logo-spin {
+    0% {
+        transform: rotate3d(0, 1, 0, 0deg);
+    }
+
+    100% {
+        transform: rotate3d(0, 1, 0, 360deg);
+    }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .aLogo {
+        animation: Angular-logo-spin infinite 10s linear;
+    }
+}
+
+.sLogo {
+    position: relative;
+    left: 0;
+    width: 100%;
+    object-fit: fill;
+
+}
+
+
+.reLogo {
+    position: relative;
+    left: 0;
+    width: 100%;
+    object-fit: fill;
+
+}
+
+.ppLogo {
+    position: relative;
+    top: -10px;
+
+    width: 140px;
+
+
+}
+
+/*@media (max-width: 500px) {
+    .rbsLogo {
+        position: relative;
+        top: -40px;
+        left: -40px;
+        width: 40%;
+    }
+
+    .infoSysLogo {
+        position: relative;
+        top: -211px;
+        left: 180px;
+        width: 46%;
+    }
+}*/
+
+@media (max-width: 500px) {
+    .rbsLogo {
+        position: relative;
+        left: 0;
+        width: 100%;
+        height: 25vh;
+        object-fit: cover;
+
+    }
+
+    .infoSysLogo {
+        position: relative;
+        left: 0;
+        width: 100%;
+        height: 25vh;
+        object-fit: cover;
+    }
+
+    .cssLogo {
+        position: relative;
+        top: -8px;
+        left: -10px;
+        width: 130%;
+        object-fit: contain;
+    }
+
+    .htmlLogo {
+        width: 80%;
+        object-fit: fill;
+    }
+
+    .c1 {
+        position: relative;
+        top: -10px;
+        width: 100%;
+    }
+
+    .mLogo {
+        position: relative;
+        top: 3vh;
+        width: 100%;
+        object-fit: fill;
+
+    }
+}
+
+@media (min-width: 501px) {
+    .rbsLogo {
+        position: relative;
+        left: 0;
+        width: 100%;
+        height: 25vh;
+        object-fit: cover;
+
+    }
+
+    .infoSysLogo {
+        position: relative;
+        top: 12px;
+        left: 5%;
+        width: 100%;
+        height: 25vh;
+        object-fit: cover;
+    }
+
+    .c1 {
+        position: relative;
+        top: -10px;
+
+        width: 100%;
+    }
+}
+
+@media (max-width: 1000px) and (min-width: 501px) {
+    .cssLogo {
+        position: relative;
+        top: -13px;
+        left: -20px;
+        width: 115%;
+        object-fit: contain;
+    }
+
+    .htmlLogo {
+        width: 70%;
+        object-fit: contain;
+    }
+    .mLogo {
+        position: relative;
+        top: 8vh;
+        left: 3vw;
+        width: 100%;
+        object-fit: fill;
+
+    }
+}
+
+@media (min-width: 501px) {
+    .rbsLogo {
+        position: relative;
+        left: 0;
+        width: 100%;
+        height: 25vh;
+        object-fit: cover;
+
+    }
+
+    .infoSysLogo {
+        position: relative;
+        top: 12px;
+        left: 5%;
+        width: 100%;
+        height: 25vh;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 901px) {
+
+    .c1 {
+        position: relative;
+        top: -10px;
+
+        width: 92%;
+    }
+
+    .mLogo {
+        position: relative;
+        top: 8vh;
+        left: 3vw;
+        width: 100%;
+        object-fit: fill;
+
+    }
+}
+
+@media (min-width: 991px) {
+
+    .cssLogo {
+        position: relative;
+        top: -13px;
+        left: -10px;
+        width: 130%;
+        object-fit: contain;
+    }
+
+    .htmlLogo {
+        width: 80%;
+        object-fit: contain;
+    }
+}
+
+.jsLogo {
+    position: relative;
+    left: 0;
+    width: 100%;
+    object-fit: fill;
+
+}
+
+.cplusLogo {
+    position: relative;
+    left: 0;
+    width: 90%;
+    object-fit: fill;
+}
+
+
+.jLogo1 {
+    position: relative;
+    left: 5%;
+    width: 70%;
+    object-fit: fill;
+}
+
+.pLogo1 {
+    position: relative;
+    left: 5%;
+    width: 100%;
+    object-fit: fill;
+}
+
+.poLogo {
+    position: relative;
+    left: 0;
+    width: 100%;
+    object-fit: fill;
+}
+
+.mDBLogo {
+    position: relative;
+    top: 3vh;
+    left: 0;
+    width: 100%;
+    object-fit: fill;
+}
+
+.maLogo {
+    position: relative;
+    top: 0;
+    width: 100%;
+    object-fit: fill;
+}
+
+#l1 {
+    position: absolute;
+    cursor: pointer;
+    top: 0px;
+    left: -120px;
+    width: 130%;
+    height: 3px;
+    background: black;
+    z-index: 1;
+}
+
+#l2 {
+    position: absolute;
+    cursor: pointer;
+    top: 125px;
+    left: -120px;
+    width: 130%;
+    height: 3px;
+    background: black;
+    z-index: 1;
+}
+
+.sqlLogo {
+    position: relative;
+    left: -23%;
+    width: 160%;
+    object-fit: fill;
+
 }
