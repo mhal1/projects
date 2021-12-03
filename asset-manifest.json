@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/projects/static/css/main.a9a1e6f9.chunk.css",
-    "main.js": "/projects/static/js/main.40de6690.chunk.js",
-    "main.js.map": "/projects/static/js/main.40de6690.chunk.js.map",
+    "main.css": "/projects/static/css/main.24a9b541.chunk.css",
+    "main.js": "/projects/static/js/main.6ca7c615.chunk.js",
+    "main.js.map": "/projects/static/js/main.6ca7c615.chunk.js.map",
     "runtime-main.js": "/projects/static/js/runtime-main.8eff53be.js",
     "runtime-main.js.map": "/projects/static/js/runtime-main.8eff53be.js.map",
     "static/js/2.d05a2431.chunk.js": "/projects/static/js/2.d05a2431.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3df36520.chunk.js": "/projects/static/js/3.3df36520.chunk.js",
     "static/js/3.3df36520.chunk.js.map": "/projects/static/js/3.3df36520.chunk.js.map",
     "index.html": "/projects/index.html",
-    "static/css/main.a9a1e6f9.chunk.css.map": "/projects/static/css/main.a9a1e6f9.chunk.css.map",
+    "static/css/main.24a9b541.chunk.css.map": "/projects/static/css/main.24a9b541.chunk.css.map",
     "static/js/2.d05a2431.chunk.js.LICENSE.txt": "/projects/static/js/2.d05a2431.chunk.js.LICENSE.txt",
     "static/media/Apache_Maven_logo.1f517075.svg": "/projects/static/media/Apache_Maven_logo.1f517075.svg",
     "static/media/Infosys-01.bc53b446.svg": "/projects/static/media/Infosys-01.bc53b446.svg",
@@ -44,7 +44,7 @@
   "entrypoints": [
     "static/js/runtime-main.8eff53be.js",
     "static/js/2.d05a2431.chunk.js",
-    "static/css/main.a9a1e6f9.chunk.css",
-    "static/js/main.40de6690.chunk.js"
+    "static/css/main.24a9b541.chunk.css",
+    "static/js/main.6ca7c615.chunk.js"
   ]
 }
