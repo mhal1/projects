@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/projects/static/css/main.769c2614.chunk.css",
-    "main.js": "/projects/static/js/main.42f4694a.chunk.js",
-    "main.js.map": "/projects/static/js/main.42f4694a.chunk.js.map",
-    "runtime-main.js": "/projects/static/js/runtime-main.8eff53be.js",
-    "runtime-main.js.map": "/projects/static/js/runtime-main.8eff53be.js.map",
-    "static/js/2.d05a2431.chunk.js": "/projects/static/js/2.d05a2431.chunk.js",
-    "static/js/2.d05a2431.chunk.js.map": "/projects/static/js/2.d05a2431.chunk.js.map",
-    "static/js/3.3df36520.chunk.js": "/projects/static/js/3.3df36520.chunk.js",
-    "static/js/3.3df36520.chunk.js.map": "/projects/static/js/3.3df36520.chunk.js.map",
+    "main.css": "/projects/static/css/main.391cac29.chunk.css",
+    "main.js": "/projects/static/js/main.b88b3a55.chunk.js",
+    "main.js.map": "/projects/static/js/main.b88b3a55.chunk.js.map",
+    "runtime-main.js": "/projects/static/js/runtime-main.a3bea6ba.js",
+    "runtime-main.js.map": "/projects/static/js/runtime-main.a3bea6ba.js.map",
+    "static/js/2.6f4f0d08.chunk.js": "/projects/static/js/2.6f4f0d08.chunk.js",
+    "static/js/2.6f4f0d08.chunk.js.map": "/projects/static/js/2.6f4f0d08.chunk.js.map",
+    "static/js/3.cc78c8b8.chunk.js": "/projects/static/js/3.cc78c8b8.chunk.js",
+    "static/js/3.cc78c8b8.chunk.js.map": "/projects/static/js/3.cc78c8b8.chunk.js.map",
     "index.html": "/projects/index.html",
-    "static/css/main.769c2614.chunk.css.map": "/projects/static/css/main.769c2614.chunk.css.map",
-    "static/js/2.d05a2431.chunk.js.LICENSE.txt": "/projects/static/js/2.d05a2431.chunk.js.LICENSE.txt",
+    "static/css/main.391cac29.chunk.css.map": "/projects/static/css/main.391cac29.chunk.css.map",
+    "static/js/2.6f4f0d08.chunk.js.LICENSE.txt": "/projects/static/js/2.6f4f0d08.chunk.js.LICENSE.txt",
     "static/media/Apache_Maven_logo.1f517075.svg": "/projects/static/media/Apache_Maven_logo.1f517075.svg",
     "static/media/Infosys-01.bc53b446.svg": "/projects/static/media/Infosys-01.bc53b446.svg",
     "static/media/Oracle_SQL_Developer-Logo.wine.cc72d2e0.svg": "/projects/static/media/Oracle_SQL_Developer-Logo.wine.cc72d2e0.svg",
@@ -32,6 +32,10 @@
     "static/media/javascript-logo-vector.9abe85eb.svg": "/projects/static/media/javascript-logo-vector.9abe85eb.svg",
     "static/media/mariadb-logo-vector.c2953628.svg": "/projects/static/media/mariadb-logo-vector.c2953628.svg",
     "static/media/mongodb-logo-vector.3f7df006.svg": "/projects/static/media/mongodb-logo-vector.3f7df006.svg",
+    "static/media/networksA.d49a216c.png": "/projects/static/media/networksA.d49a216c.png",
+    "static/media/networksB.fb5b83b0.png": "/projects/static/media/networksB.fb5b83b0.png",
+    "static/media/networksC.896c9635.png": "/projects/static/media/networksC.896c9635.png",
+    "static/media/networksD.6f842fed.png": "/projects/static/media/networksD.6f842fed.png",
     "static/media/paypal-logo-vector.b9ec48eb.svg": "/projects/static/media/paypal-logo-vector.b9ec48eb.svg",
     "static/media/postgresql-inc-logo-vector.4776707e.svg": "/projects/static/media/postgresql-inc-logo-vector.4776707e.svg",
     "static/media/python-logo-vector-1.f64482ff.svg": "/projects/static/media/python-logo-vector-1.f64482ff.svg",
@@ -42,9 +46,9 @@
     "static/media/spring-logo-vector.9024f67b.svg": "/projects/static/media/spring-logo-vector.9024f67b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8eff53be.js",
-    "static/js/2.d05a2431.chunk.js",
-    "static/css/main.769c2614.chunk.css",
-    "static/js/main.42f4694a.chunk.js"
+    "static/js/runtime-main.a3bea6ba.js",
+    "static/js/2.6f4f0d08.chunk.js",
+    "static/css/main.391cac29.chunk.css",
+    "static/js/main.b88b3a55.chunk.js"
   ]
 }
